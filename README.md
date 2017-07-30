@@ -1,6 +1,6 @@
 # Starter-Kit for Microcontroller Boards
 
-[![StarterKit](https://github.com/watterott/StarterKit-Microcontroller/raw/master/datasheets/StarterKit.jpg)](http://www.watterott.com/en/StarterKit-for-Arduino-UNO)
+![StarterKit](https://github.com/watterott/StarterKit-Microcontroller/raw/master/datasheets/StarterKit.jpg)
 
 ## Shop
 * [StarterKit+ without Microcontroller Board](http://www.watterott.com/en/StarterKit-for-Arduino)
