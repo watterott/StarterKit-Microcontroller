@@ -2,37 +2,16 @@
 
 ![StarterKit](https://github.com/watterott/StarterKit-Microcontroller/raw/master/datasheets/StarterKit.jpg)
 
-## Shop
-* [StarterKit+ without Microcontroller Board](http://www.watterott.com/en/StarterKit-for-Arduino)
-* [StarterKit+ with Uno Microcontroller Board](http://www.watterott.com/en/StarterKit-for-Arduino-UNO)
-* [StarterKit+ with Leonardo Microcontroller Board](http://www.watterott.com/en/StarterKit-for-Arduino-Leonardo)
-* [StarterKit+ with Mega 2560 Microcontroller Board](http://www.watterott.com/en/StarterKit-for-Arduino-Mega)
 
-
-## Arduino/Genuino Tutorials
-
-* [Tutorial by Arduino](http://arduino.cc/en/Tutorial/HomePage)
-* [Tutorial by Adafruit](http://learn.adafruit.com/adafruit-arduino-lesson-1-blink)
-* [Tutorial by SparkFun](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32)
-* [Video Tutorial by Jeremy Blum](http://www.youtube.com/playlist?list=PLA567CE235D39FA84)
-* [German Video Tutorial by Max Hentsch](http://www.youtube.com/playlist?list=PLAB63281B90FB376E) (deutsch)
-* [German AVR-Microcontroller Tutorial](https://www.mikrocontroller.net/articles/AVR-Tutorial) (deutsch)
-* [German Tutorials](http://playground.arduino.cc/Deutsch/HomePage) (deutsch)
-* [German Books](http://rn-wissen.de/wiki/index.php/B%C3%BCcher_zum_Thema_Mikrocontroller_Schwerpunkt_Arduino) (deutsch)
-
-
-## Arduino/Genuino Forums
-
-* [Arduino Forum](http://forum.arduino.cc)
-* [German Arduino Forum](http://forum.arduino.cc/index.php?board=31.0) (deutsch)
-* [German Mikrocontroller Forum](http://www.mikrocontroller.net) (deutsch)
+## Tutorials
+* [Tutorials](http://learn.watterott.com/arduino/tutorials/)
 
 
 ## Starter-Kit Content
 
 * Component/Project Box from [W.AG Funktion + Design](http://www.wag.de)
 
-* Microcontroller Board with USB Cable
+* Microcontroller Board
 
 * [Breadboard](https://github.com/watterott/StarterKit-Microcontroller/raw/master/datasheets/Breadboard.png)
 

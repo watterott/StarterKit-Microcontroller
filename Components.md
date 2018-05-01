@@ -2,7 +2,7 @@
 
 * Component/Project Box from [W.AG Funktion + Design](http://www.wag.de)
 
-* Microcontroller Board with USB Cable
+* Microcontroller Board
 
 * Breadboard ![Breadboard](https://github.com/watterott/StarterKit-Microcontroller/raw/master/datasheets/Breadboard.png)
 
