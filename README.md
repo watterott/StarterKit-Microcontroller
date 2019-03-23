@@ -2,9 +2,7 @@
 
 ![StarterKit](https://github.com/watterott/StarterKit-Microcontroller/raw/master/datasheets/StarterKit.jpg)
 
-
-## Tutorials
-* [Tutorials](http://learn.watterott.com/arduino/tutorials/)
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
 
 
 ## Starter-Kit Content
