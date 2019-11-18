@@ -7,15 +7,10 @@
 * Breadboard ![Breadboard](https://github.com/watterott/StarterKit-Microcontroller/raw/master/datasheets/Breadboard.png)
 
 * Cable / Connector
-
-  * [Jumper Wires for Breadboard](http://www.watterott.com/en/Breadboard-with-Wire-Kit)
-
-  * [Jumper Wires Female/Female](http://www.watterott.com/en/Jumper-Wires-FF-100mm)
-
-  * [Jumper Wires Female/Male](http://www.watterott.com/en/Jumper-Wires-FM-100mm)
-
-  * [Jumper Wires Male/Male](http://www.watterott.com/en/Jumper-Wires-MM-100mm)
-
+  * Jumper Wires for Breadboard
+  * Jumper Wires Female/Female
+  * Jumper Wires Female/Male
+  * Jumper Wires Male/Male
   * 40x1 Pin Header (2.54 mm)
 
 * Resistor (1/4 W)
